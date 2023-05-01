@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+header{
+  margin-top: 25px;
+  margin-left: 25px;
+}
+.header__div{
+  margin-bottom: 20px;
+}
+.header_text{
+  font-weight: 500;
+
+}
+.headr__mini_text{
+  color: gray;
+}
+.header_min__block{
+  border: 1px solid rgb(195, 195, 195);
+  width: 1325px;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.min__block_box{
+  display: flex;
+}
+.min__blokc_text{
+  margin-left: 20px;
+}
+.min__block_boom{
+  color: gray;
+  margin-right: 15px;
+}
+.p__look{
+  margin-right: 20px;
+  border: 1px  solid rgb(126, 58, 126);
+  color: rgb(126, 58, 126);
+}

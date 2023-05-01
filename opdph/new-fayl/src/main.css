@@ -1,0 +1,81 @@
+                                                            
+
+
+
+.main__block{
+    
+   
+    display: flex;
+}
+
+.main__box_one{
+display: flex;
+border: 1px solid rgb(195, 195, 195);  width: 1325px;
+margin-left: 25px;
+margin-top: 10px;
+
+}
+.main__box_two{
+    margin-top:10px ;
+    display: flex;
+    border: 1px solid rgb(195, 195, 195);  width: 1325px;
+    margin-left: 25px;
+    
+    }
+.main__img{
+    margin: 10px;
+    width: 200px;
+}
+.main__p{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    display: flex;
+    margin-bottom: 50px;
+}
+.main_span{
+    font-weight: 700;
+
+}
+.main_muu{
+    display: flex;
+    margin-top: 100px;
+}
+.main_btn{
+    width: 50px;
+    height: 50px;
+    margin-right:10px;
+}
+.main__btn_two{
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+}
+.main_for{
+    margin-top: 5px;
+    font-weight: 600;
+    font-size: 26px;
+}
+.main__good{
+    margin-left: 600px;
+    margin-top: 100px;
+}
+.dflkgj{
+    font-weight: 600;
+    font-size: 26px;
+}
+.asdada{
+    border: 2px solid rgb(254, 3, 3) ;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    margin-left: 1000px;
+    width: 350px;
+    margin-top: 5px;
+    
+   
+}
+.main__img1{
+    width: 200px;
+    margin: 10px;
+}
